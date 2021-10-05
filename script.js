@@ -44,5 +44,5 @@ const mobileNavbar = new MobileNavbar(
 mobileNavbar.init();
 
 function voltar(){
- window.location.href = ''
+ window.location.href = 'https://mariasatelier.github.io/Marias-atelier-vendas/'
 }
